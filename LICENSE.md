@@ -1,0 +1,1 @@
+Simple-Page-Contnent-Shortcode is licensed under the GNU GPL
